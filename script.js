@@ -1,7 +1,8 @@
 let pokemones = [
   { nombre: "Pikachu", nivel: 10, tipo: ["Eléctrico"], hp: 100, hp_total: 100 },
   { nombre: "Charmander", nivel: 8, tipo: ["Fuego"], hp: 90, hp_total: 90 },
-  { nombre: "Squirtle", nivel: 9, tipo: ["Agua"], hp: 110, hp_total: 110 }
+  { nombre: "Squirtle", nivel: 9, tipo: ["Agua"], hp: 110, hp_total: 110 },
+  { nombre: "Raycuaza", nivel: 11, tipo: ["Bicho"], hp: 200, hp_total: 200 },
 ];
 
 function mostrarPokemones() {
