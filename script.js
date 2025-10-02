@@ -3,6 +3,8 @@ let pokemones = [
   { nombre: "Charmander", nivel: 8, tipo: ["Fuego"], hp: 90, hp_total: 90 },
   { nombre: "Squirtle", nivel: 9, tipo: ["Agua"], hp: 110, hp_total: 110 },
   { nombre: "Raycuaza", nivel: 11, tipo: ["Bicho"], hp: 200, hp_total: 200 },
+  {nombre: "Groudon", nivel: 11, tipo: ["Tierra"], hp: 200, hp_total: 200},
+  {nombre: "Kyogre", nivel: 11, tipo: ["Agua"], hp: 200, hp_total: 200},
 ];
 
 function mostrarPokemones() {
