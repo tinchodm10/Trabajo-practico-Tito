@@ -5,6 +5,7 @@ let pokemones = [
   { nombre: "Raycuaza", nivel: 11, tipo: ["Bicho"], hp: 200, hp_total: 200 },
   {nombre: "Groudon", nivel: 11, tipo: ["Tierra"], hp: 200, hp_total: 200},
   {nombre: "Kyogre", nivel: 11, tipo: ["Agua"], hp: 200, hp_total: 200},
+  {nombre: "Lucario", nivel: 11, tipo: ["Tierra"], hp: 200, hp_total: 200},
 ];
 
 function mostrarPokemones() {
